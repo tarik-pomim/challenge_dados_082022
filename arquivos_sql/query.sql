@@ -7,4 +7,4 @@ FROM id identificadores,
      
 WHERE  mutuarios.person_id = identificadores.person_id
 AND emprestimos.loan_id = identificadores.loan_id
-AND historicps.cb_id = identificadores.cb_id;
+AND historicos.cb_id = identificadores.cb_id;
