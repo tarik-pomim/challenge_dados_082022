@@ -1,6 +1,6 @@
 SELECT *
 
-FROM id identificadores,
+FROM ids identificadores,
      dados_mutuarios mutuarios, 
 	 emprestimos emprestimos, 
 	 historicos_banco historicos
